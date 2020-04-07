@@ -3,9 +3,9 @@
 สรุปเนื้อหาวิชา
 
 ส่งการบ้านครั้งที่ 1
-[คลิป1]https://youtu.be/37fsqcEbHfk
+[คลิป1](https://youtu.be/37fsqcEbHfk)
 อธิบายการบ้านครั้งที่1
 
 ส่งการบ้านครั้งที่2
-[คลิป2]https://youtu.be/GqOXGPJogCU
+[คลิป2](https://youtu.be/GqOXGPJogCU)
 อธิบายการบ้านครั้งที่2
